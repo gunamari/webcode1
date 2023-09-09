@@ -1,0 +1,62 @@
+body{
+    background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+.main1{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+main1 {
+    margin: 20px auto;
+    padding: 20px;
+    width: 600px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.formgroup {
+    margin-bottom: 20px;
+}
+
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+
+button.bbtn-btn-primary {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+#name, #probability1, #probability2, #country1, #country2 {
+    
+    font-size: 18px;
+    margin:0 auto;
+    justify-content: center;
+    font-weight: bold;
+    color:black
+    
+    
+    
+}
+
+
+#name mark {
+    background-color: yellow;
+}
+
+
+
+
